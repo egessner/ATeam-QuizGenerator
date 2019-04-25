@@ -2,7 +2,7 @@
 //
 // Title:           Quiz Generator
 // Files:           Main.java
-// Due:				Thusday, Apr. 25, 2019 10pm
+// Due:	            Thusday, Apr. 25, 2019 10pm
 // Course:          CS 400 Spring 2019
 //
 // Team:          	ATeam 4 (Sarah Bangen, Paul Cary, Erik Gessner, Robert Niemann)
@@ -77,7 +77,7 @@ public class Main extends Application {
 	
 	//Move start methods here
 	private Scene mainScene(Integer width, Integer height) {
-		//<... Quiz Setup, Quiz Results, Save Quiz button
+				//<... Quiz Setup, Quiz Results, Save Quiz button
 				VBox leftMain = new VBox(); 
 				
 				//Inner Left VBox Top - Quiz Setup
