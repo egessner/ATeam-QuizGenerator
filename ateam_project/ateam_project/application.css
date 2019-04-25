@@ -1,1 +1,19 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.pane {
+    -fx-border-color: black;
+    -fx-border-width: 3px;
+    -fx-border-radius: 3px, 0px;
+}
+
+VBox {
+	-fx-background-color: white;
+}
+
+HBox {
+	-fx-background-color: white;
+}
+
+ScrollPane {
+	-fx-border-color: black;
+    -fx-border-width: 1px;
+}
