@@ -11,4 +11,7 @@ Team Members:
 
 Notes or comments to the grader:
 
-[place any comments or notes that will help the grader here]
+  The json reader and add question functionality does not exist yet, 
+  so the number of questions and topics are hard-coded at line [update line],
+  to show the behavior of the main scene before any questions are added, 
+  and after questions with many topics are added. 
